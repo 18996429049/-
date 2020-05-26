@@ -2,14 +2,20 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_e3m_ytm_5lb">
     <title>导出参会人员</title>
-    <shortdesc></shortdesc>
+    <shortdesc><uicontrol/>导出参会人员<uicontrol/>功能可以帮助用户了解参会人员信息。</shortdesc>
     <taskbody>
         <context>
             <p></p>
         </context>
         <steps>
             <step>
-                <cmd>登录该网址导出: https://meeting.tencent.com。登录后→会议列表→已结束会议→导出参会成员。（仅发起人可以）</cmd>
+                <cmd>会议结束后登录<uicontrol/>腾讯会议<uicontrol/>官网https://meeting.tencent.com/；</cmd>
+            </step>
+            <step>
+                <cmd>在<uicontrol/>个人中心<uicontrol/>找到<uicontrol/>会议列表<uicontrol/>；</cmd>
+            </step>
+            <step>
+                <cmd>在<uicontrol/>已结束的会议<uicontrol/>选择您所需要的会议，点击<uicontrol/>导出参会人员<uicontrol/>。</cmd>
             </step>
         </steps>
     </taskbody>
