@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="如何设置联席主持人">
+    <title>联席主持人</title>
+    <shortdesc>主持人可将其他成员为联席主持人。此时，这位成员可协助主持人管理会议，对成员进行静音、解除静音等操作：</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>点击<uicontrol>管理成员</uicontrol>按钮，查看所有成员；</cmd>
+            </step>
+            <step>
+                <cmd>将鼠标指向您希望成为联席主持人的成员，点击最右方<uicontrol>更多</uicontrol>按钮；</cmd>
+            </step>
+            <step>
+                <cmd>在该按钮的下拉菜单中，选择<uicontrol>设为联席主持人</uicontrol>选项进行设置；</cmd>
+            </step>
+            <step>
+                <cmd>此外，您还可以通过<uicontrol>更多</uicontrol>菜单下<uicontrol>解除联席主持人</uicontrol>选项，撤销联席主持人。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

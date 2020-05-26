@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_change_user_name">
+    <title>更改用户名称</title>
+    <shortdesc/>
+    <taskbody>
+        <context>在使用腾讯会议的过程中，有三种更改用户名称的方法。<p/></context>
+        <steps>
+            <step>
+                <cmd><uicontrol>进入会议前</uicontrol>修改名称：</cmd>
+            </step>
+            <step>
+                <cmd>打开<uicontrol>腾讯会议</uicontrol>，点击<uicontrol>加入会议</uicontrol>按钮</cmd>
+            </step>
+            <step>
+                <cmd>点击在<uicontrol>我的名称</uicontrol>下的输入框，修改名称，然后点击<uicontrol>加入会议</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd><uicontrol>会议进行中</uicontrol>修改名称：</cmd>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>成员</uicontrol>按钮，找到自己的名字</cmd>
+            </step>
+            <step>
+                <cmd>鼠标指向自己的名字，点击<uicontrol>改名</uicontrol>按钮，进行修改并点击<uicontrol>确认</uicontrol>按钮</cmd>
+            </step>
+            <step>
+                <cmd>也可以和会议<uicontrol>主持人</uicontrol>沟通，请主持人帮忙修改</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

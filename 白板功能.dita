@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mgc_gpm_5lb">
+    <title>共享白板</title>
+    <shortdesc>使用腾讯会议时，可以投屏到白板上，通过白板进行演示。</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>更新【腾讯会议】到最新版然后点击【快速会议】按钮。</cmd>
+            </step>
+            <step>
+                <cmd> 在快速会议界面点击【共享屏幕】按钮。 </cmd>
+            </step>
+            <step>
+                <cmd>选择共享内容下点击【白板】然后点击【确认共享】按钮。 </cmd>
+            </step>
+            <step>
+                <cmd>进入腾讯会议白板功能点击【画笔】工具书写。</cmd>
+            </step>
+            <step>
+                <cmd> 点击【荧光笔】选择不同颜色来表达观点。</cmd>
+            </step>
+            <step>
+                <cmd> 点击橡皮擦和撤销可以清除错误内容。 </cmd>
+            </step>
+            <step>
+                <cmd>点击【清空】可以重新书写点击【保存】最终结果操作完成。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

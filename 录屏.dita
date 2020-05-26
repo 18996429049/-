@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ypm_fsm_5lb">
+    <title>录屏</title>
+    <shortdesc>腾讯会议暂不支持录屏，但是可以通过其他软件录制会议视频</shortdesc>
+    <taskbody>
+        <context><p/>腾讯会议录屏的方法和步骤（电脑端）：</context>
+        <steps>
+            <step>
+                <cmd>打开腾讯会议开会界面。</cmd>
+            </step>
+            <step>
+                <cmd>打开qq聊天窗口点击“屏幕录制 ctrl+alt+s”。</cmd>
+            </step>
+            <step>
+                <cmd>拖画录屏区域然后开始录制腾讯会议开会视频。</cmd>
+            </step>
+            <stepsection/>
+        </steps>
+    </taskbody>
+</task>

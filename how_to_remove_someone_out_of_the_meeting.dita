@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_remove_someone_out_of_the_meeting">
+    <title>移出会议</title>
+    <shortdesc>当有陌生人进入会议时，您可以选择将其移出会议，并阻止他/她再次进入会议。</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>进入会议后，点击<uicontrol>管理成员</uicontrol>按钮</cmd>
+            </step>
+            <step>
+                <cmd>鼠标指向需要移出会议的成员，点击<uicontrol>更多</uicontrol>按钮</cmd>
+            </step>
+            <step>
+                <cmd>勾选<uicontrol>移出会议</uicontrol>，并根据需要选择是否勾选<uicontrol>不允许用户再次进入该会议</uicontrol></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

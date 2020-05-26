@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="如何设置全体静音">
+    <title>全体静音</title>
+    <shortdesc>在需要时，主持人可以对参会全员进行静音：</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>点击<uicontrol>管理成员</uicontrol>按钮，可找到<uicontrol>全体静音</uicontrol>按钮，点击按钮，可完成全体静音设置</cmd>
+            </step>
+            <step>
+                <cmd>如您不希望您的讲话被他人打断，点击<uicontrol>全体静音</uicontrol>按钮后，可不勾选<uicontrol>允许成员自我解除静音</uicontrol>，此时，各成员可通过<uicontrol>举手</uicontrol>按钮，向您申请解除静音设置。如您允许该成员发言，请点击<uicontrol>允许</uicontrol>按钮；反之，您可点击<uicontrol>拒绝</uicontrol>按钮</cmd>
+            </step>
+            <step>
+                <cmd>如您允许成员主动发言，请点击<uicontrol>全体静音</uicontrol>按钮后，勾选<uicontrol>允许成员自我解除静音</uicontrol>。此时，各位成员可自我解除静音状态，随意发言。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

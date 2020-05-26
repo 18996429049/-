@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="聊天">
+    <title>聊天</title>
+    <shortdesc>聊天框用法，基础功能</shortdesc>
+    <conbody>
+        <p>点击<uicontrol>聊天</uicontrol>按钮，弹出聊天窗口。当您不方便语音或被主持人静音时，您可以在聊天框内与其他成员进行文字沟通。</p>
+    </conbody>
+</concept>

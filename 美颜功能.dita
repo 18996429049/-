@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qfj_ymm_5lb">
+    <title>美颜功能</title>
+    <shortdesc>当您打开此模式，进行视频会议时，会将您的脸部进行美化，您可以自行调节美颜程度</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>首先打开腾讯会议，加入会议。</cmd>
+            </step>
+            <step>
+                <cmd> 点击右下角三个白点的图标。</cmd>
+            </step>
+            <step>
+                <cmd> 然后点击“设置”。</cmd>
+            </step>
+            <step>
+                <cmd> 然后点击“高级设置”进入。 </cmd>
+            </step>
+            <step>
+                <cmd>进入后点击“美颜”。</cmd>
+            </step>
+            <step>
+                <cmd> 然后把底下美颜的滑块滑到最右边即可</cmd>
+            </step>
+            <stepsection/>
+        </steps>
+    </taskbody>
+</task>

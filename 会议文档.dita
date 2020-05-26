@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_uln_bdg_5lb">
+    <title>会议文档</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>点击<uicontrol>会议文档</uicontrol>按钮，打开在线文档编辑界面，在该窗口创建文档；</p>
+    </conbody>
+</concept>
