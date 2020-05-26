@@ -2,26 +2,17 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_m5n_znm_5lb">
     <title>音频降噪</title>
-    <shortdesc>音频降噪是指在嘈杂的环境中提高信噪比，使人声更清楚</shortdesc>
+    <shortdesc><uicontrol/>音频降噪<uicontrol/>功能可使用户在嘈杂环境中的声音更清晰。</shortdesc>
     <taskbody>
         <context>
             <p/>
         </context>
         <steps>
             <step>
-                <cmd>打开腾讯会议点击进入会议界面。</cmd>
+                <cmd>打开<uicontrol/>设置<uicontrol/>按钮；</cmd>
             </step>
             <step>
-                <cmd> 点击界面下方的更多选项。 </cmd>
-            </step>
-            <step>
-                <cmd>弹出的选项界面点击设置。 </cmd>
-            </step>
-            <step>
-                <cmd>打开设置界面，点击视频降噪选项。 </cmd>
-            </step>
-            <step>
-                <cmd>根据需要设置开启</cmd>
+                <cmd> 点击<uicontrol/>音频降噪<uicontrol/>按钮即可</cmd>
             </step>
         </steps>
     </taskbody>

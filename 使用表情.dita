@@ -2,20 +2,17 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_jnb_xqm_5lb">
     <title>表情</title>
-    <shortdesc>表情功能可帮助参会者快速且生动地表达意见：</shortdesc>
+    <shortdesc><uicontrol/>表情<uicontrol/>功能可帮助参会者快速且生动地表达意见</shortdesc>
     <taskbody>
         <context>
             <p/>
         </context>
         <steps>
             <step>
-                <cmd>加入会议</cmd>
+                <cmd>进入会议后可看到下端的<uicontrol/>表情<uicontrol/>按钮；</cmd>
             </step>
             <step>
-                <cmd>点击聊天按钮，右侧弹出聊天窗口，可以选择针对所有人群聊或某参会成员私聊</cmd>
-            </step>
-            <step>
-                <cmd>在会议中，点击“更多”，在操作菜单的顶部有很多表情可供选择</cmd>
+                <cmd>用户自由选择所需要的表情即可。</cmd>
             </step>
         </steps>
     </taskbody>

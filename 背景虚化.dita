@@ -2,20 +2,17 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="背景虚化">
     <title>背景虚化</title>
-    <shortdesc>背景虚化功能开启后，我们人物周围的背景会被虚化，看不清楚。这样开会的时候就算开启摄像头也能保护自己的隐私，不让别人看到我们身处的环境</shortdesc>
+    <shortdesc><uicontrol/>背景虚化<uicontrol/>可使用户在会议中的背景呈现虚化效果，保护用户隐私。</shortdesc>
     <taskbody>
         <steps>
             <step>
-                <cmd> 先进入会议，可以通过加入会议，加入一个别人创建的会议，也可以快速会议，自己创建一个会议。</cmd>
+                <cmd> 点击<uicontrol/>设置<uicontrol/>按钮；</cmd>
             </step>
             <step>
-                <cmd> 在会议界面的右下角位置，点击“更多”这里。</cmd>
+                <cmd> 点击左侧栏中的<uicontrol/>虚拟背景<uicontrol/>按钮即可；</cmd>
             </step>
             <step>
-                <cmd>选择底部界面的第一个“设置”选项。 </cmd>
-            </step>
-            <step>
-                <cmd>设置当中有常规设置，和beta实验室。点击开启背景虚化功能即可。</cmd>
+                <cmd>点击<uicontrol/>选择虚拟背景<uicontrol/>可自由选择背景图即可。</cmd>
             </step>
         </steps>
     </taskbody>
