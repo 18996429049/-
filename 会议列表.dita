@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="会议列表">
+    <title>会议列表</title>
+    <shortdesc>该列表会展示您在今天和今天以后的所有<uicontrol>预定会议</uicontrol>，包含您创建的预定会议和邀请您的预定会议。并按照预定开始时间——预定结束时间
+        进行排序。</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>双击某个会议，进入会议详情页；</cmd>
+            </step>
+            <step>
+                <cmd>根据拥有的权限对会议进行编辑或修改，或在此处提前结束您是主持人权限的预定会议。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

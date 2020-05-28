@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="视频共享">
+    <title>屏幕共享</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>支持移动端和桌面客户端发起共享屏幕，当您点击<uicontrol>共享屏幕</uicontrol>后，便可快速发起共享，在同一时间内，只支持单个人共享屏幕。</p>
+        <p/>
+    </conbody>
+</concept>

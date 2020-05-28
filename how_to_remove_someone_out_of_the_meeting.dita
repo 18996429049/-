@@ -9,13 +9,13 @@
         </context>
         <steps>
             <step>
-                <cmd>进入会议后，点击<uicontrol>管理成员</uicontrol>按钮</cmd>
+                <cmd>进入会议后，点击<uicontrol>管理成员</uicontrol>按钮；</cmd>
             </step>
             <step>
-                <cmd>鼠标指向需要移出会议的成员，点击<uicontrol>更多</uicontrol>按钮</cmd>
+                <cmd>鼠标指向需要移出会议的成员，点击<uicontrol>更多</uicontrol>按钮；</cmd>
             </step>
             <step>
-                <cmd>勾选<uicontrol>移出会议</uicontrol>，并根据需要选择是否勾选<uicontrol>不允许用户再次进入该会议</uicontrol></cmd>
+                <cmd>勾选<uicontrol>移出会议</uicontrol>，并根据需要选择是否勾选<uicontrol>不允许用户再次进入该会议</uicontrol>。</cmd>
             </step>
         </steps>
     </taskbody>

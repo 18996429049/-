@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="开启视频">
+    <title>开启视频</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>点击该按钮您可以进行打开摄像头和关闭摄像头操作，当您没有摄像头设备时，则无法开启视频。</p>
+        <p/>
+    </conbody>
+</concept>
