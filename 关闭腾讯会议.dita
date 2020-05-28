@@ -2,26 +2,14 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_n4h_l5m_5lb">
     <title>关闭腾讯会议</title>
-    <shortdesc></shortdesc>
+    <shortdesc><uicontrol>关闭会议</uicontrol>按钮可以让您结束本次会议</shortdesc>
     <taskbody>
         <context>
             <p/>
         </context>
         <steps>
             <step>
-                <cmd>登录进入腾讯会议,点击已经创建的会议。</cmd>
-            </step>
-            <step>
-                <cmd> 进入会议详情,点击右上三点。</cmd>
-            </step>
-            <step>
-                <cmd>  页面下方弹出选项,点击取消会议。 </cmd>
-            </step>
-            <step>
-                <cmd> 页面弹出取消会议提示,点击确定取消。 </cmd>
-            </step>
-            <step>
-                <cmd> 返回主界面,页面就会显示暂无会议了。</cmd>
+                <cmd>点击右上角<uicontrol>结束会议</uicontrol>即可结束本次会议</cmd>
             </step>
             <stepsection>
                 <p/>

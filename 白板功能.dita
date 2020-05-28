@@ -2,33 +2,33 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_mgc_gpm_5lb">
     <title>共享白板</title>
-    <shortdesc>进行会议时，用户可以投屏到<uicontrol/>白板<uicontrol/>上进行演示。</shortdesc>
+    <shortdesc>进行会议时，用户可以投屏到<uicontrol>白板</uicontrol>上进行演示。</shortdesc>
     <taskbody>
         <context>
             <p/>
         </context>
         <steps>
             <step>
-                <cmd>更新最新版<uicontrol/>腾讯会议<uicontrol/>，点击<uicontrol/>快速会议<uicontrol/>按钮；</cmd>
+                <cmd>更新最新版<uicontrol>腾讯会议</uicontrol>，点击<uicontrol>快速会议</uicontrol>按钮；</cmd>
             </step>
             <step>
-                <cmd> 点击<uicontrol/>共享屏幕<uicontrol/>按钮； </cmd>
+                <cmd> 点击<uicontrol>共享屏幕</uicontrol>按钮； </cmd>
             </step>
             <step>
-                <cmd>点击<uicontrol/>共享内容<uicontrol/>下的<uicontrol/>白板<uicontrol/>，选择<uicontrol/>确认共享<uicontrol/>按钮；
+                <cmd>点击<uicontrol>共享内容</uicontrol>下的<uicontrol>白板</uicontrol>，选择<uicontrol>确认共享</uicontrol>按钮；
                 </cmd>
             </step>
             <step>
-                <cmd>进入腾讯会议<uicontrol/>白板功能点击<uicontrol/>画笔工具书写；</cmd>
+                <cmd>进入腾讯会议<uicontrol>白板功能</uicontrol>点击<uicontrol>画笔工具</uicontrol>书写；</cmd>
             </step>
             <step>
-                <cmd> 点击<uicontrol/>荧光笔<uicontrol/>选择不同颜色来表达观点；</cmd>
+                <cmd> 点击<uicontrol>荧光笔</uicontrol>选择不同颜色来表达观点；</cmd>
             </step>
             <step>
-                <cmd> 点击<uicontrol/>橡皮擦<uicontrol/>和<uicontrol/>撤销<uicontrol/>可以清除错误内容； </cmd>
+                <cmd> 点击<uicontrol>橡皮擦</uicontrol>和<uicontrol>撤销</uicontrol>可以清除错误内容； </cmd>
             </step>
             <step>
-                <cmd>点击<uicontrol/>清空<uicontrol/>按钮可重新书写，点击<uicontrol/>保存<uicontrol/>按钮可保存最终操作结果。</cmd>
+                <cmd>点击<uicontrol>清空</uicontrol>按钮可重新书写，点击<uicontrol>保存</uicontrol>按钮可保存最终操作结果。</cmd>
             </step>
         </steps>
     </taskbody>

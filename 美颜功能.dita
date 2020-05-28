@@ -9,13 +9,13 @@
         </context>
         <steps>
             <step>
-                <cmd>点击<uicontrol/>设置<uicontrol/>按钮；</cmd>
+                <cmd>点击<uicontrol>设置</uicontrol>按钮；</cmd>
             </step>
             <step>
-                <cmd> 点击左侧<uicontrol/>Beta 实验室<uicontrol/>按钮；</cmd>
+                <cmd> 点击左侧<uicontrol>Beta 实验室</uicontrol>按钮；</cmd>
             </step>
             <step>
-                <cmd>用户自由调节<uicontrol/>美颜<uicontrol/>程度即可。</cmd>
+                <cmd>用户自由调节<uicontrol>美颜</uicontrol>程度即可。</cmd>
             </step>
             <stepsection/>
         </steps>

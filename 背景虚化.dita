@@ -2,17 +2,17 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="背景虚化">
     <title>背景虚化</title>
-    <shortdesc><uicontrol/>背景虚化<uicontrol/>可使用户在会议中的背景呈现虚化效果，保护用户隐私。</shortdesc>
+    <shortdesc><uicontrol>背景虚化</uicontrol>可使用户在会议中的背景呈现虚化效果，保护用户隐私。</shortdesc>
     <taskbody>
         <steps>
             <step>
-                <cmd> 点击<uicontrol/>设置<uicontrol/>按钮；</cmd>
+                <cmd> 点击<uicontrol>设置</uicontrol>按钮；</cmd>
             </step>
             <step>
-                <cmd> 点击左侧栏中的<uicontrol/>虚拟背景<uicontrol/>按钮即可；</cmd>
+                <cmd> 点击左侧栏中的<uicontrol>虚拟背景</uicontrol>按钮即可；</cmd>
             </step>
             <step>
-                <cmd>点击<uicontrol/>选择虚拟背景<uicontrol/>可自由选择背景图即可。</cmd>
+                <cmd>点击<uicontrol>选择虚拟背景</uicontrol>自由选择背景图即可。</cmd>
             </step>
         </steps>
     </taskbody>
