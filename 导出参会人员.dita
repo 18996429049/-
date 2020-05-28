@@ -9,7 +9,7 @@
         </context>
         <steps>
             <step>
-                <cmd>会议结束后登录<uicontrol/>腾讯会议<uicontrol/>官网https://meeting.tencent.com/；</cmd>
+                <cmd>会议结束后登录<uicontrol>腾讯会议</uicontrol>官网https://meeting.tencent.com/；</cmd>
             </step>
             <step>
                 <cmd>在<uicontrol/>个人中心<uicontrol/>找到<uicontrol/>会议列表<uicontrol/>；</cmd>
