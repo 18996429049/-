@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="音频选择">
+    <title>音频选择</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <ul id="ul_vhc_5kj_vlb">
+            <li>您可以选择<uicontrol>电话拨打</uicontrol>和<uicontrol>电脑音频</uicontrol>任意一种作为您在会议中的通话方式 。</li>
+        </ul>
+        <p><uicontrol>电话拨打</uicontrol>：是指您通过您身边的座机或手机拨打相应的号码加入会议，此时该座机或手机会作为您的会议音频，不会再使用电脑的麦克风和扬声器，通话质量相对更好。</p>
+        <p><uicontrol>电脑音频</uicontrol>是指您直接使用电脑的麦克风和扬声器（耳机）作为会议音频接入方式加入会议，该种方式适合于小型会议，不受场景局限。当您举办大型会议时推荐您使用“呼叫我”或“电话拨打”作为音频接入方式，通话质量会更好。</p>
+        <p>当您不选择任何音频接入方式的时候，您将无法在会议中发言和听到别人的讲话。</p>
+        <p>另外，使用移动设备进入会议时没有此设置。</p>
+        <p></p>
+    </conbody>
+</concept>

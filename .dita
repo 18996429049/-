@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_vkt_f4j_vlb">
+    <title>屏幕共享</title>
+    <shortdesc>
+        腾讯会议支持移动端和桌面客户端发起屏幕共享。当你点击<uicontrol>共享屏幕</uicontrol>后，便可快速发起共享，在同一时间内，只支持单个人共享屏幕。</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>点击会议中底部工具栏的<uicontrol>共享屏幕</uicontrol>按钮；</cmd>
+            </step>
+            <step>
+                <cmd>选择您希望共享的屏幕或按钮；</cmd>
+            </step>
+            <step>
+                <cmd>勾选<uicontrol>同时共享电脑声音</uicontrol>（选填，勾选后即可在共享屏幕内容的同时，共享电脑的声音，当前仅支持Windows)；</cmd>
+            </step>
+            <step>
+                <cmd>勾选<uicontrol>视频流畅度优先</uicontrol>（选填，勾选后，系统将为您减少其他性能的消耗，优先保障共享视频流畅度；</cmd>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>共享屏幕</uicontrol>按钮确定发起共享；</cmd>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>结束共享</uicontrol>按钮确定结束共享。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
