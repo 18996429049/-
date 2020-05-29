@@ -4,7 +4,7 @@
     <title>更改用户名称</title>
     <shortdesc/>
     <taskbody>
-        <context>在使用腾讯会议的过程中，有三种更改用户名称的方法。<p/></context>
+        <context>在使用腾讯会议的过程中，有三种更改用户名称的方法。</context>
         <steps>
             <step>
                 <cmd><uicontrol>进入会议前</uicontrol>修改名称：</cmd>

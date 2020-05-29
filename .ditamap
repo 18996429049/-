@@ -27,6 +27,7 @@
             <topicref href="%E5%A6%82%E4%BD%95%E8%A7%A3%E9%99%A4%E9%9D%99%E9%9F%B3.dita"/>
             <topicref href="%E4%BA%BA%E5%A3%B0%E9%99%8D%E5%99%AA.dita"/>
         </topicref>
+        <topicref href=".dita"/>
         <topicref href="how_to_set_up_watermark.dita"/>
         <topicref href="%E7%99%BD%E6%9D%BF%E5%8A%9F%E8%83%BD.dita"/>
         <topicref href="%E8%81%8A%E5%A4%A9.dita"/>

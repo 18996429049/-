@@ -2,19 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_n4h_l5m_5lb">
     <title>关闭腾讯会议</title>
-    <shortdesc><uicontrol>关闭会议</uicontrol>按钮可以让您结束本次会议</shortdesc>
+    <shortdesc>点击<uicontrol>关闭会议</uicontrol>按钮可以让您结束本次会议。</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
-        <steps>
-            <step>
-                <cmd>点击右上角<uicontrol>结束会议</uicontrol>即可结束本次会议</cmd>
-            </step>
-            <stepsection>
-                <p/>
-                <p>1.</p>
-            </stepsection>
-        </steps>
+        <context/>
+        <steps/>
     </taskbody>
 </task>

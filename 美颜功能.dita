@@ -4,9 +4,7 @@
     <title>美颜功能</title>
     <shortdesc>此功能可对用户的面部进行美化，使用户在视频中的面貌更完美。</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context/>
         <steps>
             <step>
                 <cmd>点击<uicontrol>设置</uicontrol>按钮；</cmd>
@@ -17,7 +15,6 @@
             <step>
                 <cmd>用户自由调节<uicontrol>美颜</uicontrol>程度即可。</cmd>
             </step>
-            <stepsection/>
         </steps>
     </taskbody>
 </task>

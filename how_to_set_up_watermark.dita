@@ -2,23 +2,15 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="how_to_set_up_watermark">
     <title>屏幕共享水印</title>
-    <shortdesc>如果您希望保护您在腾讯会议中分享的内容，可以在此设置。</shortdesc>
+    <shortdesc>如果您希望保护您在腾讯会议中分享的内容，可以在预定会议后设置水印，也可以在进入会议后设置水印。</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context/>
         <steps>
             <step>
-                <cmd>在<uicontrol>预定会议</uicontrol>时开启：</cmd>
+                <cmd>点击<uicontrol>预定会议</uicontrol>按钮，勾选<uicontrol>开启屏幕共享水印</uicontrol>按钮；</cmd>
             </step>
             <step>
-                <cmd>点击<uicontrol>预定会议</uicontrol>按钮，勾选<uicontrol>开启屏幕共享水印</uicontrol>按钮</cmd>
-            </step>
-            <step>
-                <cmd>在<uicontrol>进入会议后</uicontrol>开启：</cmd>
-            </step>
-            <step>
-                <cmd>点击<uicontrol>设置</uicontrol>按钮，勾选<uicontrol>开启屏幕水印</uicontrol>按钮</cmd>
+                <cmd>或者点击<uicontrol>设置</uicontrol>按钮，勾选<uicontrol>开启屏幕水印</uicontrol>按钮。</cmd>
             </step>
         </steps>
     </taskbody>

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="结束会议">
-    <title>结束会议</title>
-    <shortdesc>用户通过点击<uicontrol/>结束会议<uicontrol/>按钮即可结束会议。</shortdesc>
-    <conbody>
-        <p></p>
-    </conbody>
+    <title><b>结束会议</b></title>
+    <shortdesc>用户通过点击<uicontrol>结束会议</uicontrol>按钮即可结束会议。</shortdesc>
 </concept>

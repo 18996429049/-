@@ -4,9 +4,7 @@
     <title>联席主持人</title>
     <shortdesc>主持人可将其他成员为联席主持人。此时，这位成员可协助主持人管理会议，对成员进行静音、解除静音等操作：</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context/>
         <steps>
             <step>
                 <cmd>点击<uicontrol>管理成员</uicontrol>按钮，查看所有成员；</cmd>

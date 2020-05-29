@@ -4,9 +4,7 @@
     <title>音频降噪</title>
     <shortdesc><uicontrol>音频降噪</uicontrol>功能可使用户在嘈杂环境中的声音更清晰。</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context/>
         <steps>
             <step>
                 <cmd>打开<uicontrol>设置</uicontrol>按钮；</cmd>

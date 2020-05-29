@@ -4,21 +4,20 @@
     <title>注册账号</title>
     <shortdesc/>
     <taskbody>
-        <context>  首次使用腾讯会议的用户需要注册腾讯会议账号。<p/></context>
+        <context> 首次使用腾讯会议的用户需要注册腾讯会议账号。</context>
         <steps>
             <step>
-                <cmd>打开<uicontrol>腾讯会议</uicontrol></cmd>
+                <cmd>打开<uicontrol>腾讯会议</uicontrol>；</cmd>
             </step>
             <step>
-                <cmd>点击<uicontrol>注册/登录</uicontrol>按钮</cmd>
+                <cmd>点击<uicontrol>注册/登录</uicontrol>按钮；</cmd>
             </step>
             <step>
-                <cmd>点击<uicontrol>新用户注册</uicontrol>按钮，等待页面跳转</cmd>
+                <cmd>点击<uicontrol>新用户注册</uicontrol>按钮，等待页面跳转；</cmd>
             </step>
             <step>
-                <cmd>进入<uicontrol>新用户注册</uicontrol>页面，根据要求依次将信息填写完整，最后点击<uicontrol>注册</uicontrol>按钮</cmd>
+                <cmd>进入<uicontrol>新用户注册</uicontrol>页面，根据要求依次将信息填写完整，最后点击<uicontrol>注册</uicontrol>按钮。</cmd>
             </step>
         </steps>
-        <result id="result_v2k_f2g_5lb">收到<uicontrol>注册成功</uicontrol>的推送则完成注册</result>
     </taskbody>
 </task>

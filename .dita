@@ -5,9 +5,7 @@
     <shortdesc>
         腾讯会议支持移动端和桌面客户端发起屏幕共享。当你点击<uicontrol>共享屏幕</uicontrol>后，便可快速发起共享，在同一时间内，只支持单个人共享屏幕。</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context/>
         <steps>
             <step>
                 <cmd>点击会议中底部工具栏的<uicontrol>共享屏幕</uicontrol>按钮；</cmd>

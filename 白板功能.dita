@@ -4,9 +4,7 @@
     <title>共享白板</title>
     <shortdesc>进行会议时，用户可以投屏到<uicontrol>白板</uicontrol>上进行演示。</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context/>
         <steps>
             <step>
                 <cmd>更新最新版<uicontrol>腾讯会议</uicontrol>，点击<uicontrol>快速会议</uicontrol>按钮；</cmd>

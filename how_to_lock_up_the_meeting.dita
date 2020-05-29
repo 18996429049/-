@@ -4,9 +4,7 @@
     <title>锁定会议</title>
     <shortdesc>如果您不希望无关人员加入会议，在会议成员到齐后，可以在此设置。</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context/>
         <steps>
             <step>
                 <cmd>进入会议后，点击<uicontrol>管理成员</uicontrol>按钮</cmd>
