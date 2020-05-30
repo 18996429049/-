@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="成员入会时播放提示音">
-    <title>成员入会时静音/播放提示音</title>
+    <title>成员入会时音频</title>
     <shortdesc>为保证成员在迟到时，不会影响会议进行或给参会人提醒，主持人可在成员入会时设置静音或播放提示音。点击<uicontrol>管理成员</uicontrol>按钮，可以看到<uicontrol>成员入会时静音</uicontrol>和<uicontrol>成员进入时播放提示音</uicontrol>两个选项；当您希望成员进入会议时静音，可勾选<uicontrol>成员入会时静音</uicontrol>选项；当您希望成员进入会议时出现提示音，可勾选<uicontrol>成员入会时播放提示音</uicontrol>选项。</shortdesc>
-    <conbody>
-        <p></p>
-    </conbody>
 </concept>
