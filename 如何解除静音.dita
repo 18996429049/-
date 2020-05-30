@@ -2,11 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="如何解除静音">
     <title>解除全体静音</title>
-    <shortdesc>在需要时，主持人可以解除全体静音：</shortdesc>
+    <shortdesc>主持人可以解除全体静音：</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context/>
         <steps>
             <step>
                 <cmd>点击<uicontrol>管理成员</uicontrol>按钮，可找到<uicontrol>接触全体静音</uicontrol>按钮，点击按钮，可向各位成员发送解除静音的请求。</cmd>
